@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! I'm Amir</h2>
 
-<!--
-**Amir0715/Amir0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **e-commerce shop**
+- 🌱 I’m currently learning **Python**, **JavaScript**, **ReactJs** and **Django**
+- 🤔 I’m looking for help with **ReactJs**
+- 💬 Ask me about **Python**, **Git**
+- <img alt="Amir Kamolov | Twitter" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> Twitter: [@amir__kamolov ](https://twitter.com/amir__kamolov)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
