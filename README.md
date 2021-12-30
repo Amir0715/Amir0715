@@ -11,8 +11,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Bash    12 mins         ████████████████████▒░░░░   81.44 % 
-Other   2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.56 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
