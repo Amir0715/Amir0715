@@ -11,7 +11,8 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+XAML   28 mins         ██████████████▓░░░░░░░░░░   58.92 % 
+C#     19 mins         ██████████▒░░░░░░░░░░░░░░   41.08 % 
 ```
 <!--END_SECTION:waka-->
 
