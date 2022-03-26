@@ -6,6 +6,8 @@
 - 💬 Ask me about **Python**, **Git**
 - <img alt="Amir Kamolov | Twitter" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> Twitter: [@amir__kamolov ](https://twitter.com/amir__kamolov)
 
+![](https://www.codewars.com/users/Kamolov%20Amir/badges/micro)
+
 ---
 
 📊 **Weekly development breakdown**
