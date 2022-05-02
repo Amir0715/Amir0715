@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python             40 hrs 35 mins  ██████████████████████▒░░   89.96 %
-reStructuredText   1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Markdown           1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Other              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Python             35 hrs 56 mins  ██████████████████████░░░   87.69 %
+reStructuredText   1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Markdown           1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Other              36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
