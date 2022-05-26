@@ -15,8 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python             31 mins         ███████████████████████▓░   94.99 %
-reStructuredText   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+C#                 1 hr 50 mins    ███████████████████▒░░░░░   77.13 %
+Python             31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+reStructuredText   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Csproj             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
