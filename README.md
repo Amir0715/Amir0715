@@ -15,10 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#       21 mins         ██████████████████████▓░░   91.30 %
-Python   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Csproj   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
