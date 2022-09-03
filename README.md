@@ -26,3 +26,5 @@ JSON             25 mins         ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Amir0715?theme=dark&font=Noto%20Sans%20Mono&ext=heatmap)
