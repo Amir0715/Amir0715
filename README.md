@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#          1 hr 23 mins    ██████████████████░░░░░░░   71.92 %
+XML         18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Razor       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+GDScript3   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+HTML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
