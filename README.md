@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#           9 hrs 20 mins   █████████████████████░░░░   83.53 %
-SCSS         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-HTML         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-TypeScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-CSHTML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
