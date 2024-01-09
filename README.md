@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML        2 hrs 5 mins    ██████████████████▓░░░░░░   74.42 %
+Terraform   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+HCL         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Docker      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
