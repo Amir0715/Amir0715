@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 6 mins    ███████████████▓░░░░░░░░░   62.40 %
-HTML         38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
-C#           21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-Razor        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Blazor       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
