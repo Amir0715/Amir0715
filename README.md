@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 19 mins   ██████████████░░░░░░░░░░░   56.09 %
-C#           37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-Razor        31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Markdown     22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Blazor       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
