@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#       26 mins         █████████░░░░░░░░░░░░░░░░   36.11 %
-Razor    23 mins         ████████▒░░░░░░░░░░░░░░░░   33.07 %
-Blazor   15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-JSON     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Csproj   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
