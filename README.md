@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#         1 hr 53 mins    █████████████████████▒░░░   84.94 %
-textmate   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-Csproj     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
