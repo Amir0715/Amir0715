@@ -15,10 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                        3 hrs 44 mins   ███████████████████████░░   92.30 %
-HTTP Request              15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-JSON                      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Project file properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
